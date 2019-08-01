@@ -3,7 +3,7 @@ name: summary-of-thesis
 about: 論文のまとめをIssueで管理する
 title: ''
 labels: ''
-assignees: nd-02110114
+assignees: 
 
 ---
 
